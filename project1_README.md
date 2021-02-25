@@ -18,3 +18,5 @@ testing the loaded model will display an accuracy score
 training the loaded model will train against the defined dataset, then create a save of the new model in the defined directory
 
 generate is used when no model is yet present and will create a set architecture. before saveing in the defined directory.
+
+the current model "Fire_detect_prototype_V2" is currently in this git repo.
